@@ -1,0 +1,3 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+  I think if you're collaborating it'd be best to have a remote repository. 
+  That way you can edit and select what you want to push and share accordingly.
