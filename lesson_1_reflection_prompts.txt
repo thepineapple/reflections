@@ -2,6 +2,7 @@ How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
 	It created the ability to track changes.
+
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
@@ -17,7 +18,7 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Because Git allows for sharing and allwos for different people to fuck things up by themselves, while google doc does things in one single file direction.
+    Because Git allows for sharing and allows for different people to fuck things up by themselves, while google doc does things in one single file direction.
 
 How can you use the commands git log and git diff to view the history of files?
 
