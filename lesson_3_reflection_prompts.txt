@@ -1,3 +1,18 @@
 1. When would you want to use a remote repository rather than keeping all your work local?
-  I think if you're collaborating it'd be best to have a remote repository. 
-  That way you can edit and select what you want to push and share accordingly.
+	I think if you're collaborating it'd be best to have a remote repository. 
+	That way you can edit and select what you want to push and share accordingly.
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	You may not want to accept all of the commits that have been updated to GitHub. Manually doing so will make you aware of where you are in the commit history.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Forks are clones of repositories directly on GitHub. Clones are local copies of a repository. Clones are just copies of repositories. You would fork a repository if you are on GitHub and aren't allowed to edit a repository directly on it. Then you would clone that repository to your local computer so that you can edit it and then push your commits to your GitHub repository.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+	I have no idea. Cheese?
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	It would be easier to just post your own document whenever you wanted to and copy the files whenever you wanted, since it's more intuitive right now, but GitHub allwows for a pretty efficient way of tracking changes, so tracking changes using Google Drive would be harder. 
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	I think when you're collaborating and want to make sure that you can have a pull request on the master that is viewed by your collaborators it'd be good to make your own seperate branch that you'd like to work on.
